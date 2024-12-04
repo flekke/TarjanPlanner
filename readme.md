@@ -27,7 +27,7 @@ TarjanPlanner/
 To use TarjanPlanner, follow these steps:
 ### Option 1. Clone the repository 
     1. Clone the repository
-    2. Install the required dependencies (geopy, networkx, matplotlib, etc)
+    2. Install the required dependencies (requirements.txt)
     3. Run the program 
     
 
@@ -42,9 +42,9 @@ To use TarjanPlanner, follow these steps:
         ```
     5. Run the program 
 
-    ```bash
-    python main.py
-    ```
+        ```bash
+        python main.py
+        ```
 
 
 ## Features
