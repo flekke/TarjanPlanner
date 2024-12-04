@@ -61,5 +61,5 @@ To test the functionalities of the program, you can run:
     python test_project.py
     ```
 
-    ## License
+## License
 This project is licensed under the MIT License.
