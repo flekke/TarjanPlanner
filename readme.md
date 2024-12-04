@@ -27,8 +27,20 @@ TarjanPlanner/
 To use TarjanPlanner, follow these steps:
 ### Option 1. Clone the repository 
     1. Clone the repository
-    2. Install the required dependencies (requirements.txt)
+    
+       ```bash
+        git clone <https://github.com/flekke/TarjanPlanner.git>
+        ```bash
+    2. Install dependencies
+   
+        ```bash
+        pip install -r requirements.txt
+        ```
     3. Run the program 
+
+        ```bash
+        python main.py
+        ```
     
 
 ### Option 2. Download the ZIP file
